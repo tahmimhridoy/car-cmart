@@ -1,0 +1,24 @@
+.getTouch{
+    background-color: #f0151f;
+    padding: 50px 0;
+}
+.touch{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.touch h1{
+    font-size: 27px;
+    color: #fff;
+    line-height: 50px;
+}
+.touch button{
+    background-color: #fff;
+    padding: 16px 30px 12px 30px;
+    color: #f0151f;
+    border-radius: 3px;
+    transition: .5s;
+}
+.touch button:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, .4);
+}

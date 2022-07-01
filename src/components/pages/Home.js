@@ -4,6 +4,7 @@ import Agent from './Agent';
 import Banner from './Banner';
 import CarBlog from './CarBlog';
 import Featured from './Featured';
+import GetInTouch from './GetInTouch';
 import Offers from './Offers';
 import Search from './Search';
 import Testimonial from './Testimonial';
@@ -19,6 +20,7 @@ const Home = () => {
             <Agent />
             <Testimonial />
             <CarBlog />
+            <GetInTouch />
         </div>
     );
 };
