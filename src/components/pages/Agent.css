@@ -1,0 +1,20 @@
+.agent{
+    background: #f9f9f8;
+}
+.agent-card{
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+    text-align: center;
+}
+.agent-info{
+    padding: 20px
+}
+.agent-info h5{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: monospace;
+    color: rgb(49, 49, 49);
+}
+.agent-info p{
+    font-size: 15px;
+    font-weight: 500;
+}
