@@ -6,6 +6,7 @@ import Cars from './components/pages/Cars';
 import Blogs from './components/pages/Blogs';
 import Contact from './components/pages/Contact';
 import Login from './components/pages/Login';
+// import Footer from './components/pages/Footer';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route path='/contact' element={<Contact />}></Route>
         <Route path='/login' element={<Login />}></Route>
       </Routes>
+      {/* <Footer /> */}
     </div>
   );
 }
