@@ -1,0 +1,31 @@
+.uppercase{
+    font-family: 'Barlow', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+.title-border{
+    background: #f0151f;
+    height: 5px;
+    width: 94px;
+    border-radius: 10px;
+    margin: 8px auto;
+}
+.title-border-inner{
+    height: 5px;
+    width: 5px;
+    animation: pulse 3s ease infinite alternate, nudge 5s linear infinite alternate;
+    float: left;
+    margin: 0 2px;
+}
+
+@keyframes pulse {
+    0% {background-color: #fff;}
+    50% {background-color: #fff;}
+    100% {background-color: #fff;}
+}
+
+@keyframes nudge {
+    0%, 100%{transform: translate(0, 0);}
+    50%{transform: translate(50px, 0);}
+    80%{transform: translate(20px, 0);}
+}

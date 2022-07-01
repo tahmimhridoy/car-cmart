@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Hyundai Santa",
+        "img": "https://storage.googleapis.com/theme-vessel-items/checking-sites/cmart-2-html/HTML/main/img/car/car-5.jpg",
+        "location": "123 Kathal St. Tampa City",
+        "kilometer": "4000 km",
+        "status": "Manual",
+        "year": 2021,
+        "fuel": "Petrol",
+        "type": "Sport",
+        "color": "Blur"
+    },
+    {
+        "id": 2,
+        "name": "Toyota Prius",
+        "img": "https://storage.googleapis.com/theme-vessel-items/checking-sites/cmart-2-html/HTML/main/img/car/car-1.jpg",
+        "location": "123 Kathal St. Tampa City",
+        "kilometer": "4000 km",
+        "status": "Manual",
+        "year": 2021,
+        "fuel": "Petrol",
+        "type": "Sport",
+        "color": "Blur"
+    },
+    {
+        "id": 3,
+        "name": "Toyota Prius Specs",
+        "img": "https://storage.googleapis.com/theme-vessel-items/checking-sites/cmart-2-html/HTML/main/img/car/car-4.jpg",
+        "location": "123 Kathal St. Tampa City",
+        "kilometer": "4000 km",
+        "status": "Manual",
+        "year": 2021,
+        "fuel": "Petrol",
+        "type": "Sport",
+        "color": "Blur"
+    },
+    {
+        "id": 4,
+        "name": "Lexus GS F",
+        "img": "https://storage.googleapis.com/theme-vessel-items/checking-sites/cmart-2-html/HTML/main/img/car/car-3.jpg",
+        "location": "123 Kathal St. Tampa City",
+        "kilometer": "4000 km",
+        "status": "Manual",
+        "year": 2021,
+        "fuel": "Petrol",
+        "type": "Sport",
+        "color": "Blur"
+    },
+    {
+        "id": 5,
+        "name": "Audi Q7 2018",
+        "img": "https://storage.googleapis.com/theme-vessel-items/checking-sites/cmart-2-html/HTML/main/img/car/car-6.jpg",
+        "location": "123 Kathal St. Tampa City",
+        "kilometer": "4000 km",
+        "status": "Manual",
+        "year": 2021,
+        "fuel": "Petrol",
+        "type": "Sport",
+        "color": "Blur"
+    },
+    {
+        "id": 6,
+        "name": "2020 Ford Mustang",
+        "img": "https://storage.googleapis.com/theme-vessel-items/checking-sites/cmart-2-html/HTML/main/img/car/car-2.jpg",
+        "location": "123 Kathal St. Tampa City",
+        "kilometer": "4000 km",
+        "status": "Manual",
+        "year": 2021,
+        "fuel": "Petrol",
+        "type": "Sport",
+        "color": "Blur"
+    }
+]
