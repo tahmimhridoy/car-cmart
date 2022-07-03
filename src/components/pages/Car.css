@@ -79,3 +79,6 @@
     padding-left: 4px;
     font-size: 14px;
 }
+.car-box:hover{
+    transform: translateY(-6px);
+}

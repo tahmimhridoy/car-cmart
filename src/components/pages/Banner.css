@@ -44,3 +44,20 @@ p, a{
     transition: all .7s ease;
     position: relative;
 }
+@media only screen and (min-width: 380px) and (max-width: 586px) {
+    .banner{
+        height: 80vh;
+    }
+    .banner-title{
+        font-size: 35px;
+        font-weight: 700;
+    }
+    .banner .container p{
+        font-size: 15px;
+        margin: 0px 15px 20px 15px;
+        text-align: center;
+    }
+    .btn-1{
+        padding: 13.5px 25px 11.5px;
+    }
+}

@@ -18,7 +18,7 @@ const Advantage = () => {
                     <div className="title-border-inner"></div>
                 </div>
                 </div>
-                <div className="grid grid-cols-4 gap-5 mx-20">
+                <div className="grid grid-cols-1 lg:grid-cols-4 gap-5 mx-20">
                     <div className="ad-container">
                         <div className="icon">
                             <FontAwesomeIcon icon={faShieldCat}></FontAwesomeIcon>

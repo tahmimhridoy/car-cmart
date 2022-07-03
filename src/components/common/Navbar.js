@@ -10,7 +10,7 @@ const Navbar = () => {
         <li className='text-lg font-semibold'><Link to='/login'>Login</Link></li>
     </> 
     return (
-        <div class="navbar bg-base-100 px-20">
+        <div class="navbar bg-base-100 px-4 lg:px-20">
             <div class="navbar-start">
                 <div class="dropdown">
                 <label tabindex="0" class="btn btn-ghost lg:hidden">

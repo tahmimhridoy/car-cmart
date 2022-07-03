@@ -20,7 +20,7 @@ const Testimonial = () => {
                     <div className="title-border-inner"></div>
                 </div>
             </div>
-            <div className="testimonial-container grid grid-cols-2 gap-20 mx-20">
+            <div className="testimonial-container grid grid-cols-1 lg:grid-cols-2 gap-20 mx-12 lg:mx-20">
                 <div className="testimony">
                     <div className="tes-details">
                         <h3>Maikel Alisa</h3>

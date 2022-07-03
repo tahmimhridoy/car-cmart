@@ -20,37 +20,49 @@ const Agent = () => {
                     <div className="title-border-inner"></div>
                 </div>
             </div>
-            <div className="card-container grid grid-cols-4 gap-5 mx-24">
-                <div className="agent-card">
+            <div className="card-container grid grid-cols-1 lg:grid-cols-4 gap-5 mx-16 lg:mx-24">
+                <div className="agent-card mb-8">
                     <div className="agent-image">
                         <img src={avater1} alt="" />
+                        <div className="social_icon">
+                            <h2>Tahmim</h2>
+                        </div>
                     </div>
                     <div className="agent-info">
                         <h5>Michelle Nelson</h5>
                         <p>Support Manager</p>
                     </div>
                 </div>
-                <div className="agent-card">
+                <div className="agent-card mb-8">
                     <div className="agent-image">
                         <img src={avater2} alt="" />
+                        <div className="social_icon">
+                            <h2>Tahmim</h2>
+                        </div>
                     </div>
                     <div className="agent-info">
                         <h5>Martin Smith</h5>
                         <p>Web Designer</p>
                     </div>
                 </div>
-                <div className="agent-card">
+                <div className="agent-card mb-8">
                     <div className="agent-image">
                         <img src={avater3} alt="" />
+                        <div className="social_icon">
+                            <h2>Tahmim</h2>
+                        </div>
                     </div>
                     <div className="agent-info">
                         <h5>Carolyn Stone</h5>
                         <p>Creative Director</p>
                     </div>
                 </div>
-                <div className="agent-card">
+                <div className="agent-card mb-8">
                     <div className="agent-image">
                         <img src={avater4} alt="" />
+                        <div className="social_icon">
+                            <h2>Tahmim</h2>
+                        </div>
                     </div>
                     <div className="agent-info">
                         <h5>Brandon Miller</h5>

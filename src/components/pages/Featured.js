@@ -13,7 +13,7 @@ const Featured = () => {
         })
     },[])
     return (
-        <section className="featured my-20 mx-16">
+        <section className="featured my-20 mx-8 lg:mx-16">
                 <div className='mb-20'>
                 <div className="title-section text-center">
                     <h1 className='uppercase'>featured cars</h1>
@@ -26,7 +26,7 @@ const Featured = () => {
                     <div className="title-border-inner"></div>
                 </div>
                 </div>
-                <div className='grid grid-cols-3 gap-5 text-center'>
+                <div className='grid grid-cols-1 lg:grid-cols-3 gap-5 text-center'>
                     {
                         cars.map(car => <Car
                         key={car.id}

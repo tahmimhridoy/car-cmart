@@ -4,7 +4,7 @@ import './Search.css'
 const Search = () => {
     return (
         <section className="search shadow-sm">
-            <div className="grid grid-cols-4 gap-4 py-10 mx-20 mb-10">
+            <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 py-10 mx-4 lg:mx-20 mb-10">
             <select class="search-input">
                 <option selected>Select Brand</option>
                 <option>Han Solo</option>

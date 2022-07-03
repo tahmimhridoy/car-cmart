@@ -21,7 +21,7 @@ const Offers = () => {
                     <div className="title-border-inner"></div>
                 </div>
             </div>
-            <div className="img-container mx-20">
+            <div className="img-container mx-8 lg:mx-20">
                 <div className="single-img">
                     <div className="img">
                         <img src={img1} alt="" />

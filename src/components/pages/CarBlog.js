@@ -11,7 +11,7 @@ const CarBlog = () => {
         <section className="carblog content-area">
             <div className='mb-20'>
                 <div className="title-section text-center">
-                    <h1 className='uppercase'>our testimonial</h1>
+                    <h1 className='uppercase'>our Blogs</h1>
                 </div>
                 <div className='title-border'>
                     <div className="title-border-inner"></div>
@@ -21,7 +21,7 @@ const CarBlog = () => {
                     <div className="title-border-inner"></div>
                 </div>
             </div>
-            <div className="blog-container grid grid-cols-3 gap-12 mx-20">
+            <div className="blog-container grid grid-cols-1 lg:grid-cols-3 gap-12 mx-8 lg:mx-20">
                 <div className="blog">
                     <div className="blog-img">
                         <img src={blog1} alt="" />
