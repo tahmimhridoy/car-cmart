@@ -25,7 +25,6 @@ const Agent = () => {
                     <div className="agent-image">
                         <img src={avater1} alt="" />
                         <div className="social_icon">
-                            <h2>Tahmim</h2>
                         </div>
                     </div>
                     <div className="agent-info">
@@ -37,7 +36,6 @@ const Agent = () => {
                     <div className="agent-image">
                         <img src={avater2} alt="" />
                         <div className="social_icon">
-                            <h2>Tahmim</h2>
                         </div>
                     </div>
                     <div className="agent-info">
@@ -49,7 +47,6 @@ const Agent = () => {
                     <div className="agent-image">
                         <img src={avater3} alt="" />
                         <div className="social_icon">
-                            <h2>Tahmim</h2>
                         </div>
                     </div>
                     <div className="agent-info">
@@ -61,7 +58,6 @@ const Agent = () => {
                     <div className="agent-image">
                         <img src={avater4} alt="" />
                         <div className="social_icon">
-                            <h2>Tahmim</h2>
                         </div>
                     </div>
                     <div className="agent-info">

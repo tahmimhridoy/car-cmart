@@ -43,6 +43,12 @@ p, a{
     font-weight: 600;
     transition: all .7s ease;
     position: relative;
+    font-family: Raleway;
+}
+.btn-1:hover{
+    background: transparent;
+    border: 2px solid #f0151f;
+    color: #f0151f;
 }
 @media only screen and (min-width: 380px) and (max-width: 586px) {
     .banner{

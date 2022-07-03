@@ -1,6 +1,7 @@
 .blog{
     position: relative;
     box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    transition: .6s ease-in-out;
 }
 .date{
     position: absolute;
@@ -44,6 +45,16 @@
     position: absolute;
     bottom: -20px;
     border-radius: 3px;
+    transition: .6s;
+}
+.date{
+    transition: 1.5s ease;
+}
+.blog:hover{
+    transform: translateY(-6px);
+}
+.blog:hover .date{
+    transform: rotate(360deg);
 }
 .admin1{
     display: flex;
